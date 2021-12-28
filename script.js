@@ -9,7 +9,7 @@ btnToggle.addEventListener('click', function(){
     
 })
 
-let limit = 8;
+let limit = 11;
 let offset = 1;
 
 previous.addEventListener("click", () => {
